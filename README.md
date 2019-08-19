@@ -1,7 +1,7 @@
 # Recurrent_Attention_U_net
 spatial-temperal segmentation
 
-Thie repository is derived from the project "24h precipetation prediction" in 2019 Deecamp. This 
+Thie repository is derived from the project "24h precipetation prediction" in 2019 Deecamp. This conclusion of this project can be found in  https://blog.csdn.net/maliang_1993/article/details/99622197
 
 
 
